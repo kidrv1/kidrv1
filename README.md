@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rivera.angelsummer@gmail.com**
 
-<br><br><br><br><h3 align="center">Connect with me:</h3>
+<br><br><br><br>
 <p align="center">
 
 <h3 align="center">Languages and Tools:</h3>
