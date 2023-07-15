@@ -46,13 +46,13 @@ Get to know me more by visiting my "[portfolio](https://kidrv1.github.io/rivera-
 
 <details>
  <summary><h3>🚀 Gel's Coding Journey </h3></summary>
-   Picture this: a tech-savvy teenager armed with a keyboard and a burning desire to conquer the digital realm. That was me during my high school days, delving headfirst into the captivating world of coding. I started off by creating simple web pages, but I quickly realized their potential value and decided to turn my passion into profit.<br>
+   Picture this: a tech-savvy teenager armed with a keyboard and a burning desire to conquer the digital realm. That was me during my high school days, delving headfirst into the captivating world of coding. I started off by creating simple web pages, but I quickly realized their potential value and decided to turn my passion into profit.<br><br>
 
    Throughout my college years, I continued honing my skills and expanding my knowledge in the ever-evolving field of web development. I became a true aficionado, constantly seeking out the latest techniques and pushing the boundaries of what I could create. It was a never-ending journey of growth and exploration.<br>
 
    Fast forward to the present, and I've emerged as a solutions architect, crafting sophisticated systems for businesses hungry for innovation. Armed with an impressive toolkit, I specialize in utilizing Vue, React, and various other JavaScript frameworks to deliver captivating and seamless front-end experiences.<br>
 
-   But my expertise doesn't stop at the front-end. I've also ventured into the world of backend development, leveraging the power of Laravel and Node.js to construct robust and scalable solutions. I'm like a digital wizard, concocting the perfect blend of technology to bring ideas to life.<br>
+   But my expertise doesn't stop at the front-end. I've also ventured into the world of backend development, leveraging the power of Laravel and Node.js to construct robust and scalable solutions. Concocting the perfect blend of technology to bring ideas to life.<br>
 
    From my humble beginnings selling web pages to classmates, I've transformed into a force to be reckoned with in the tech industry. However, my journey is far from over. Every day presents a thrilling opportunity to explore new technologies and push the boundaries of what's possible.<br>
 
