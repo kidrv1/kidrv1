@@ -15,7 +15,7 @@ Get to know me more by visiting my "[portfolio](https://kidrv1.github.io/rivera-
 
 ---
 
-### 🧰 Languages and Tools
+### ⚒️ Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -45,7 +45,7 @@ Get to know me more by visiting my "[portfolio](https://kidrv1.github.io/rivera-
 #
 
 <details>
- <summary><h3>Gel's Coding Journey 🚀</h3></summary>
+ <summary><h3>🚀 Gel's Coding Journey </h3></summary>
    Picture this: a tech-savvy teenager armed with a keyboard and a burning desire to conquer the digital realm. That was me during my high school days, delving headfirst into the captivating world of coding. I started off by creating simple web pages, but I quickly realized their potential value and decided to turn my passion into profit.<br>
 
    Throughout my college years, I continued honing my skills and expanding my knowledge in the ever-evolving field of web development. I became a true aficionado, constantly seeking out the latest techniques and pushing the boundaries of what I could create. It was a never-ending journey of growth and exploration.<br>
